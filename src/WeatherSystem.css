@@ -1,0 +1,17 @@
+.weathersystem {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.row {
+    justify-content: center;
+}
